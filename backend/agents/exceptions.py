@@ -1,0 +1,2 @@
+class PaymentVerificationError(Exception):
+    pass
